@@ -15,7 +15,7 @@
 ## 🛠️ Tech Stack                 
                                                              
 * 💻 Languages: PHP, HTML, CSS, JavaScript                           
-* 🧠 Learning: Python, AI Models                        
+* 🧠 Learning: Python, AI Models                          
 * ⚙️ Tools: Git, GitHub, VS Code                                             
                     
 ---                                      
@@ -26,7 +26,7 @@
 
 ---   
              
-## 📫 Connect with Me            
+## 📫 Connect with Me                      
                                                    
 * 💬 Always open to collaboration                    
 * ⚡ Let’s build something crazy together
