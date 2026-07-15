@@ -4,7 +4,7 @@
    
 ---  
                                                  
-## 🧠 About Me              
+## 🧠 About Me               
      
 * 🔭 Currently working on: Web Projects                
 * 🌱 Learning: Python, AI, LLMs  
