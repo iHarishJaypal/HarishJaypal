@@ -17,12 +17,13 @@
 * ⚙️ Tools: Git, GitHub, VS Code  
                     
 ---                                      
-                    
+## 📊 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iHarishJaypal&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iHarishJaypal&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=iHarishJaypal&theme=radical)               
+![GitHub Streak](https://streak-stats.demolab.com?user=iHarishJaypal&theme=radical)           
  
 ---   
              
