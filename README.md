@@ -20,7 +20,7 @@
                     
 ## 📊 GitHub Stats
                  
-![Stats](https://github-readme-stats.vercel.app/api?username=HarishJaypal0&show_icons=true&theme=radical)                    
+![Stats](https://github-readme-stats.vercel.app/api?username=iHarishJaypal&show_icons=true&theme=radical)                    
  
 ---   
              
