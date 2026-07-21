@@ -3,11 +3,11 @@
 🚀 Future AI Developer | 💻 PHP Developer | 🎨 Web Designer            
                          
 ---   
-                                                                 
-## 🧠 About Me                  
-       
+                                                                                 
+## 🧠 About Me                   
+         
 * 🔭 Currently working on: Web Projects    
-* 🌱 Learning: Python, AI, LLMs   
+* 🌱 Learning: Python, AI, LLMs     
 * 🎯 Goal: Become a top AI Developer  
 * ⚡ Fun fact: I build things faster than I explain them 😎                   
  ## 🛠️ Tech Stack                        
